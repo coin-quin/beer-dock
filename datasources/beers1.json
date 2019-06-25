@@ -1,0 +1,11 @@
+{
+  "id": "tasing classics",
+  "date": "10.06.2019",
+  "beers": 
+    [
+      {"name": "Orval", "score": "5"},
+      {"name": "Karmeliet", "score": "4"},
+      {"name": "Koff", "score": "0.5"}
+    ]
+  
+}
